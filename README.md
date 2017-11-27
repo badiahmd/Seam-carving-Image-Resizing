@@ -1,1 +1,2 @@
 # Seam-carving-Image-Resizing
+The traditional image scaling is just simply resizing the whole image to a certain aspect ratio. The important contents of the image may get destroyed using the traditional image scaling because it may fail to protect the original image features. The main objective of this project is to provide an automatic solution to resize the original image to fit the target display devices with different resolution ratio while protecting the important image contents. The image resizing is able to be done horizontally or vertically. 
